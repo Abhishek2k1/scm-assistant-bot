@@ -105,7 +105,6 @@ Yes, this average defect rate of 2.93% exceeds the Tier-2 maximum permissible de
 # Future Improvements
 
 -Integrate Hybrid RAG with structured CSV analytics for complex calculations.
-
 -Improve retrieval using hybrid search and re-ranking techniques.
 ---
 
